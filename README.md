@@ -1,9 +1,6 @@
 Hi there!
 
-My name is Hayden and I make things in my basement. 
-
-Thanks for taking an interest in my work and welcome to my personal projects account. 
-
+Thanks for taking an interest in my work! My name is Hayden and this is my repository for computing and software projects. 
 Feel free to reach out to me on LinkedIn and let me know you found my github.
 
 Hayden
